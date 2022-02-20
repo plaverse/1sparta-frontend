@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="168658f8-45cd-4b98-8c16-11ecbd9111b7" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/pythonprac/dbmovie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonprac/genie.py" afterDir="false" />
+    <list default="true" id="168658f8-45cd-4b98-8c16-11ecbd9111b7" name="변경" comment="Merge remote-tracking branch 'github/master'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonprac/dbprac.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonprac/dbprac.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonprac/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonprac/hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax03.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,8 +148,16 @@
       <workItem from="1645256675005" duration="173000" />
       <workItem from="1645264002031" duration="56000" />
       <workItem from="1645264199448" duration="87000" />
-      <workItem from="1645329161590" duration="6605000" />
+      <workItem from="1645329161590" duration="7303000" />
     </task>
+    <task id="LOCAL-00001" summary="Merge remote-tracking branch 'github/master'">
+      <created>1645336721269</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645336721269</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +173,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge remote-tracking branch 'github/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'github/master'" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/sparta$hello.coverage" NAME="hello 커버리지 결과" MODIFIED="1645333720835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonprac" />
