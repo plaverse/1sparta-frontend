@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="168658f8-45cd-4b98-8c16-11ecbd9111b7" name="변경" comment="Merge remote-tracking branch 'github/master'">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/movie/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/movie/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/movie/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/movie/templates/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="168658f8-45cd-4b98-8c16-11ecbd9111b7" name="변경" comment="Merge remote-tracking branch 'github/master'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -173,6 +169,7 @@
       <workItem from="1645264199448" duration="87000" />
       <workItem from="1645329161590" duration="7303000" />
       <workItem from="1645429617504" duration="550000" />
+      <workItem from="1645433635939" duration="215000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'github/master'">
       <created>1645336721269</created>
